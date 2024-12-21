@@ -1,0 +1,32 @@
+.header{
+    background-color: #1abc9c;
+    color: #fff;
+    text-transform: capitalize;
+    height:90vh;
+}
+header, .container{
+    height:100%;
+}
+.avatar-img{
+    width: 230px;
+}
+
+header h1{
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 4rem;
+}
+.line{
+    border-radius: 5px;
+    width: 120px;
+    height: 5px;
+    background-color: #fff;
+}
+.star-icon{
+    font-size: 2rem;
+}
+
+.header p{
+    font-weight: 500;
+    font-size: 1.25rem;
+}

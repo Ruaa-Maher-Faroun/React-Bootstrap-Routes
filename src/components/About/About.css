@@ -1,0 +1,23 @@
+.About{
+    background-color: #1abc9c;
+    color: #fff;
+    text-transform: capitalize;
+    min-height:90vh;
+}
+
+
+.btn-xl{
+    padding: 1rem 1.75rem;
+    font-size: 1.25rem;
+    letter-spacing: -0.5px;
+    border-width: 2px;
+}
+.download-icon{
+    margin-right:12px;
+}
+.about-paragraph{
+    /* width:35%; */
+    font-weight: 500;
+    font-size: 1.1rem;
+    text-transform: none;
+}
